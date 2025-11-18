@@ -37,6 +37,8 @@ I created this project as a practice exercise to improve at:
 - Writing clean Python code
 - Applying physics formulas to real problems
 - Building small but useful scientific programs
+- I’m still improving my data-visualization skills, so for now I used a simple trajectory table instead of Matplotlib or Plotly charts. I’ll update this project later with a plotted trajectory once I learn more.
+
 
 ## Author
 **Durodola Daniel**
