@@ -24,6 +24,12 @@ The program uses standard projectile motion equations:
 - Initial velocity (m/s)
 - Launch angle (degrees)
 
+##Screenshots
+##Output
+-[Projectile motion output](https://github.com/danieldurodola02-web/projectile-motion-calculator/blob/main/74c4cd5c-f65c-42a2-94ac-c266c0ca75f0.jpeg)
+##Code snippet 
+-[Projectile motion code]()
+
 ## Example Output
 You will see:
 - Time of flight
