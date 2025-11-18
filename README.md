@@ -1,22 +1,42 @@
-# projectile-motion-calculator
-Python projectile motion calculator: time of flight, maximum height, range, and a trajectory table.
 # Projectile Motion Calculator
 
-A Python program that calculates key projectile motion values using physics formulas:
+This project is a simple physics-based program that calculates the key parameters of projectile motion using classical mechanics formulas. It was built to strengthen my understanding of Python and basic physics.
+
+## Features
+- Calculates:
+  - Time of flight
+  - Maximum height
+  - Horizontal range
+  - Horizontal and vertical positions at a given time
+- A trajectory table showing (x, y) motion values over time
+- Clean, beginner-friendly Python code
+
+## How It Works
+The program uses standard projectile motion equations:
+- Converts launch angle from degrees to radians
+- Uses ( g = 9.8 m/s^2) as gravitational acceleration
+
+## How to Run
+1. Make sure Python 3 is installed on your system.
+2. Download the file `projectile_motion_calculator.py`.
+3. Open your terminal or command prompt and run:
+4. Enter:
+- Initial velocity (m/s)
+- Launch angle (degrees)
+
+## Example Output
+You will see:
 - Time of flight
 - Maximum height
 - Range
 - Position at a chosen time
-- Optional trajectory table (x and y positions)
+- A full trajectory table
 
-## How to Run
-1. Install Python 3.
-2. Run in your terminal or command prompt:
+## Why I Built This
+I created this project as a practice exercise to improve at:
+- Writing clean Python code
+- Applying physics formulas to real problems
+- Building small but useful scientific programs
 
-   python projectile_motion_calculator.py
-
-3. Enter the initial velocity (m/s) and launch angle (degrees) when prompted.
-
-## Notes
-- Gravity constant: g = 9.8 m/s²
-- This project was created to practice Python and classical mechanics.
+## Author
+**Durodola Daniel**
